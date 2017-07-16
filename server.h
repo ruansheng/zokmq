@@ -3,6 +3,7 @@
 #include<sys/time.h>
 #include<unistd.h>
 #include<sys/types.h>
+#include <sys/stat.h>
 
 #define SERVER "127.0.0.1"
 #define PORT 1919
